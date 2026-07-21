@@ -1,0 +1,11 @@
+# Repository name
+repo_name: Zhuraulevich911/SimplCommerce_Fork
+
+# The name of your build system
+service_name: my-ci
+
+# Coveralls endpoint
+endpoint: https://coveralls.io
+
+# Carryforward flags (or all to carry-forward all previous jobs)
+carryforward: all
